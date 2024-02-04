@@ -1,2 +1,2 @@
-# bugbounty.github.io
+# secuirity.github.io
 here i share about bug bounty mythdology
